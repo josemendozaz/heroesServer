@@ -1,6 +1,6 @@
 # HeroesApp Server
 
-Base de Datos en JSON que sirve para ser consumida por la Heroes App realizada en Angular. Existen dos Archivos.
+Base de Datos en JSON que sirve para ser consumida por la Heroes App realizada en Angular. Existen dos Archivos:
 
 ## 📋 db.json
 
